@@ -11,17 +11,13 @@ Understand the top reasons behind churn Present meaningful visuals and KPIs for 
 Source: Telco Customer Churn Dataset
 
 ✅ Business Value
-Enables early intervention with high-risk customers
-
-Assists in targeted marketing and discount campaigns
-
-Helps reduce churn rate and improve customer lifetime value
+1.Enables early intervention with high-risk customers 
+2.Assists in targeted marketing and discount campaigns 
+3.Helps reduce churn rate and improve customer lifetime value
 
 💡 Future Enhancements
-Deploy the model via a REST API
-
-Integrate with live CRM systems
-
-Add NLP to analyze customer feedback and complaints
+1.Deploy the model via a REST API
+2.Integrate with live CRM systems
+3.Add NLP to analyze customer feedback and complaints
 
 
